@@ -24,11 +24,11 @@ Tras dos décadas en el sector industrial, he iniciado una transición profesion
 - **Progresión**: Fundamentos sólidos antes de avanzar a tecnologías complejas
 
 ##  Mi Ruta 2025-2026
- **Fase 1**: HTML5/CSS3 Responsive (Actual)
- **Fase 2**: JavaScript Moderno + DOM
- **Fase 3**: React.js Frontend
- **Fase 4**: Node.js Backend + MongoDB
- **Fase 5**: Proyecto Full-Stack + Portfolio
+1. **Fase 1**: HTML5/CSS3 Responsive (Actual)
+2. **Fase 2**: JavaScript Moderno + DOM
+3. **Fase 3**: React.js Frontend
+4. **Fase 4**: Node.js Backend + MongoDB
+5. **Fase 5**: Proyecto Full-Stack + Portfolio
 
 ## Valor Aportado
 Experiencia en procesos industriales aplicada al desarrollo: enfoque sistemático, resolución de problemas y gestión de proyectos.
