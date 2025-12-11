@@ -1,4 +1,4 @@
-# Juan Jose Marcrubi
+# Juan Jose Marchena Rubio
 
 **Desarrollador Web en Formación | Transición desde Sector Industrial**
 
